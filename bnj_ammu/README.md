@@ -18,3 +18,5 @@ Installation: Put in your resources / and start in server.cfg
 Requirements:
 
 bnj_armes
+
+https://github.com/BNJ-Homme-Efficace/bnj_armes/tree/master/bnj_armes
